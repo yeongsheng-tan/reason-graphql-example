@@ -37,7 +37,7 @@
     "bs-platform": ">=5.0.6",
     "graphql_ppx": "^0.2.8",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "yarn": ">=1.22.0"
   }
 }
